@@ -11,10 +11,10 @@
 
 2. Joke Display Area
 
-  - The jokes are displayed dynamically in a central area on the app screen.
-  - The joke text is separated into two parts:
-  - Question (e.g., "Why did the Clydesdale give the pony a glass of water?")
-  - Punchline (e.g., "Because he was a little horse.")
+     - The jokes are displayed dynamically in a central area on the app screen.
+     - The joke text is separated into two parts:
+     - Question (e.g., "Why did the Clydesdale give the pony a glass of water?")
+     - Punchline (e.g., "Because he was a little horse.")
 
 3. Interactive Design
 
