@@ -4,10 +4,10 @@
 1. Fetch Jokes Button
 
    - A prominent "TELL ME A JOKE" button enables users to retrieve a random joke.
-   - The button is styled with:
-         - A custom font size of 30.
-         - A background color defined in the app's asset catalog.
-         - Rounded corners with a border for a polished look.
+   - The button is styled with
+           a custom font size of 30,
+           a background color defined in the app's asset catalog,
+           rounded corners with a border for a polished look.
 
 2. Joke Display Area
 
